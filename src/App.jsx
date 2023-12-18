@@ -1,7 +1,7 @@
 import viteLogo from "/vite.svg";
 import "./App.css";
 import { Routes, BrowserRouter, Route } from "react-router-dom";
-import MainPage from "./components/mainPage/mainPage";
+import MainPage from "./components/mainPage/MainPage";
 
 function App() {
   return (
